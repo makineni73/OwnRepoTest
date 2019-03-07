@@ -1,0 +1,36 @@
+
+
+07-Mar-2019
+Yesterday: Working on 
+
+5195--pkb conflict --This conflict is resolved  by Taking the change from Source.
+deleted the dpp-utils --From the history of DevOps the content has been copied.
+ Release-x64 changes --From the history of DevOps the content has been copied to existing sln file.
+
+Today :
+
+ Changes in DataLoadUI.Designer.vb & dpp-client.sln
+----------------
+06-Mar-2019
+Yesterday:
+Worked on PR comments 
+5288- Commented exception has been modified
+5195--pkb conflict file has been modified and committed
+5330- all the removed/deleted files has been added to solution
+
+Today:
+5195--pkb conflict -
+deleted the dpp-utils 
+ Release-x64 changes 
+
+
+5195--pkb conflict --This conflict is resolved  by Taking the change from Source.
+deleted the dpp-utils --From the history of DevOps the content has been copied.
+ Release-x64 changes --From the history of DevOps the content has been copied to existing sln file.
+
+Changes in DataLoadUI.Designer.vb & dpp-client.sln
+
+{434F3CBC-C013-4B36-AC96-48D0B3FA1A2D}.Release|Any CPU.ActiveCfg = Release|x86
+{434F3CBC-C013-4B36-AC96-48D0B3FA1A2D}.Release|Any CPU.Build.0 = Release|x86
+
+C:\dpp\dpp-client\dpp-client.sln
