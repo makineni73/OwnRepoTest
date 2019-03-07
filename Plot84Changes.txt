@@ -1,0 +1,20 @@
+page 1 : Cement 
+Plastring --ACC
+Columns,Beams,Walls  -ALTECH
+
+
+PAGE 2: 
+Digital Tiles= 3*3 for HALL
+Door Frames= TEAK BT
+DOORS= WPVC (Wintech company)
+Windows=UPVC Compressed)
+
+Page 3:
+POP=Birla
+Putty=Birla
+
+
+Pahe 4 :
+Tailings =SS
+
+Note =Shelfs to be concreate (not ready made like wooden)
